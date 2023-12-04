@@ -26,5 +26,9 @@ export const NavBar = styled.nav`
     color: #fff;
     font-size: 2rem;
     transition: all 0.2s linear;
+    &:hover {
+      scale: 1.1;
+      transform: translateY(4%);
+    }
   }
 `;
