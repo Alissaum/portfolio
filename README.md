@@ -8,3 +8,4 @@ Tecnologias usadas:
 - CSS
 - Javascript
 - React
+- Styled-components
